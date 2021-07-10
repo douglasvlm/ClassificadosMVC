@@ -10,4 +10,4 @@ Página simples para cadastro de textos sobre classificados.
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 Install-Package Microsoft.EntityFrameworkCore.Tools
 
-Update-Database 
+Update-Database  
